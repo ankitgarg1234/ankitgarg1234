@@ -108,7 +108,7 @@ Built a full-stack platform featuring grievance management, analytics dashboards
 - Guardian on LeetCode
 - Expert on Codeforces
 - Top 1.8% Rank in JEE Advanced 2020
-- Department Transfer at IIT Kharagpur
+- Department Change at IIT Kharagpur
 - Gold Medal — IIT Kharagpur Website Hackathon
 - Winner — Interhall Open Soft Competition
 
