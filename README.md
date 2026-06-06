@@ -2,7 +2,7 @@
 
 ### SDE-1 @ Hilabs | Backend Engineer | Distributed Systems | System Design
 
-Currently working as an SDE-1 (Backend Engineer) at Hilabs, where I design and build scalable backend platforms, distributed systems, and event-driven architectures powering large-scale healthcare automation workflows.
+Currently working as an SDE-1 (Backend Engineer) at Hilabs, where I design and build scalable backend platforms, distributed systems, and event-driven architectures that power high-throughput, mission-critical workflows at scale.
 
 My interests lie in backend engineering, distributed systems, system design, workflow orchestration, messaging systems, and cloud-native infrastructure. I enjoy building reliable, fault-tolerant, and high-performance systems that can scale efficiently while remaining maintainable and resilient.
 
