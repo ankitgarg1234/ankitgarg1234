@@ -105,7 +105,7 @@ Built a full-stack platform featuring grievance management, analytics dashboards
 
 ## 🏆 Achievements
 
-- Guardian on LeetCode (Top 0.5% Globally)
+- Guardian on LeetCode
 - Expert on Codeforces
 - Top 1.8% Rank in JEE Advanced 2020
 - Department Transfer at IIT Kharagpur
